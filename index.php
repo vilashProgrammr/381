@@ -5,6 +5,10 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//dhananjay harel
+	//dhananjay harel
+	//dhananjay harel
+	//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
 	
 }
 // delete condition
